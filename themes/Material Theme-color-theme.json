@@ -16,7 +16,7 @@
 		"progressBar.background":"#f4b4c9",
 
 		//命令中心
-		"commandCenter.foreground":"#f4b4c9",
+		"commandCenter.foreground":"#c0295c",
 		"commandCenter.background":"#f4b4c9",
 		"commandCenter.activeBackground":"#f4b4c9",
 		
