@@ -1,6 +1,6 @@
 {
   "name": "material-theme-vsc",
-  "displayName": "Material Theme",
+  "displayName": "Material Design Theme",
   "description": "The most theme now for Visual Studio Code",
   "icon": "./themes/logo.png",
   "publisher": "scung-cn",
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Material Theme",
+        "label": "Material Design Theme",
         "uiTheme": "vs",
         "path": "./themes/Material Theme-color-theme.json"
       }
