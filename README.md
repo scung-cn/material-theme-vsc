@@ -1,16 +1,23 @@
-# material-theme-vsc README
+# Material Theme for Visual Studio Code
 
-## Working with Markdown
+The most theme now for Visual Studio Code
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![01 screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1、Open Extensions sidebar panel in Visual Studio Code. **View** → **Extensions**
+2、Search for **Material Theme**
+3、Click **Install**
+4、**File** > **Preferences** > **Color Theme** > **Material Theme**
+
+## Feedback/Issues
+
+Are you enjoying the Material Theme? If you need help and support, please create a [Github issue](https://github.com/scung-cn/material-theme-vsc/issues) to let us know.
+
+## Licens
+
+[Apache License](https://github.com/scung-cn/material-theme-vsc/blob/master/LICENSE)
 
 **Enjoy!**
