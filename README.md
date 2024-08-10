@@ -8,8 +8,11 @@ The most theme now for Visual Studio Code
 ## Installation
 
 1、Open Extensions sidebar panel in Visual Studio Code. **View** → **Extensions**
+
 2、Search for **Material Theme**
+
 3、Click **Install**
+
 4、**File** > **Preferences** > **Color Theme** > **Material Theme**
 
 ## Feedback/Issues
