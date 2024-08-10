@@ -1,9 +1,134 @@
 {
 	"name": "Material Theme",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
-        "list.activeSelectionIconForeground": "#fff"
+		"focusBorder":"#ba005c",
+		//标题栏
+		"titleBar.activeBackground":"#ffd9e1",
+		"titleBar.inactiveBackground":"#ffd9e1",
+		"titleBar.activeForeground":"#c0295c",
+		"titleBar.inactiveForeground":"#c0295c",
+
+		//滚动条
+		"scrollbarSlider.activeBackground":"#c0295c",
+		"scrollbarSlider.hoverBackground":"#c0295c",
+		"scrollbarSlider.background":"#f4b4c9",
+
+		"progressBar.background":"#f4b4c9",
+
+		//命令中心
+		"commandCenter.foreground":"#f4b4c9",
+		"commandCenter.background":"#f4b4c9",
+		"commandCenter.activeBackground":"#f4b4c9",
+		
+		//通知中心
+		"notificationCenter.border":"#fffbff",
+		"notificationCenterHeader.foreground":"#262a23",
+		"notificationCenterHeader.background":"#fffbff",
+		"notifications.background":"#fffbff",
+		
+
+		//编辑器
+		"editor.background": "#fffbff",
+		"editor.foreground": "#262a23",
+		"editorGroup.border":"#d6c2c5",
+		"editorLineNumber.activeForeground":"#c0295c",
+		"editorLineNumber.foreground":"#f4b4c9",
+		"editorCursor.foreground":"#c0295c",
+		"editor.selectionBackground":"#f4b4c9",
+
+		"editorGroupHeader.tabsBackground":"#ffd9e1",
+		"editorGroupHeader.tabsBorder":"#f3dde1",
+		"editorGroup.emptyBackground":"#fffbff",
+		"tab.activeBackground":"#f4b4c9",
+		"tab.activeForeground":"#c0295c",
+		"tab.border":"#ffd9e1",
+		"tab.activeBorder":"#f3dde1",
+		"tab.inactiveBackground":"#ffd9e1",
+		"tab.unfocusedActiveBackground":"#c0295c",
+		"tab.hoverBackground":"#fac8d6",
+
+		"list.activeSelectionBackground":"#fac8d6",
+		"list.activeSelectionForeground":"#201a1b",
+		"list.focusOutline":"#ffd9e1",
+		"list.hoverBackground":"#ffd9e1",
+		"list.inactiveSelectionBackground":"#fac8d6",
+
+		"activityBar.background":"#ffd9e1",
+		"activityBar.foreground":"#c0295c",
+		"activityBar.inactiveForeground":"#c0295c",
+		"activityBarBadge.background":"#fffbff",
+		"activityBarBadge.foreground":"#c0295c",
+		"actionBar.toggledBackground":"#d9e7cb",
+		"activityBar.activeBorder":"#fac8d6",
+		"activityBar.activeBackground":"#f4b4c9",
+
+		"inlineChat.background":"#ffd9e1",
+
+		"editorWidget.background":"#ffd9e1",
+
+		//输入框
+		"input.background":"#f3dde1",
+		"input.foreground":"#201a1b",
+		"input.border":"#e998b3",
+		"input.placeholderForeground":"#514346",
+		"inputOption.hoverBackground":"#e3ced1",
+		"inputOption.activeBorder":"#b9005c",
+		"inputOption.activeForeground":"#201a1b",
+		"inputOption.activeBackground":"#f3dde1",
+		//下拉
+		"dropdown.background":"#f3dde1",
+		"dropdown.border":"#e998b3",
+		"dropdown.foreground":"#201a1b",
+		"dropdown.listBackground":"#f7ebec",
+		//按钮
+		"button.background":"#ba005c",
+		"button.hoverBackground":"#bf1469",
+		"button.secondaryBackground":"#fcf2f200",
+		"button.secondaryForeground":"#bf1469",
+		"button.secondaryHoverBackground":"#f4b4c9",
+		//工具栏
+		"toolbar.hoverBackground":"#f4b4c9",
+
+		//侧边栏
+		"sideBar.background":"#fffbff",
+		"sideBar.foreground":"#201a1b",
+		"sideBar.border":"#d6c2c5",
+		"sideBarSectionHeader.background":"#fffbff",
+		"sideBarTitle.foreground":"#c0295c",
+		"sideBarTitle.background":"#ffd9e1",
+		"sideBarSectionHeader.border":"#d6c2c5",
+		"sideBarActivityBarTop.border":"#b9005c",
+		"sideBar.dropBackground":"#ffd9e1af",
+
+		//状态栏
+		"statusBar.background":"#ffd9e1",
+		"statusBar.foreground":"#c0295c",
+
+		//设置
+		"settings.rowHoverBackground":"#eee9ed",
+		"settings.focusedRowBackground":"#d0cbcf",
+		"settings.focusedRowBorder":"#d6c2c5",
+		"settings.dropdownBorder":"#d6c2c5",
+
+		//面包屑
+		"breadcrumb.foreground":"#c0295c",
+		"breadcrumb.background":"#fffbff",
+
+		//调试
+		"debugIcon.breakpointForeground":"#c0295c",
+
+		//欢迎页
+		"welcomePage.progress.background":"#e998b3",
+		"welcomePage.progress.foreground":"#c0295c",
+		"welcomePage.tileBackground":"#ffd9e1",
+		"welcomePage.tileHoverBackground":"#e998b3",
+
+		//窥视
+		"peekView.border":"#c0295c",
+		"peekViewEditor.background":"#ffd9e1",
+		"peekViewResult.background":"#fffbff",
+		"peekViewTitle.background":"#fffbff",
+
 	},
 	"tokenColors": [
 		{
