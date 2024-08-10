@@ -2,7 +2,7 @@
 
 The most theme now for Visual Studio Code
 
-![01 screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png)
+![01 screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png?raw=true)
 
 
 ## Installation
