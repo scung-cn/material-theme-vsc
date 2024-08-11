@@ -44,7 +44,7 @@
 		"tab.border":"#ffd9e1",
 		"tab.activeBorder":"#f3dde1",
 		"tab.inactiveBackground":"#ffd9e1",
-		"tab.unfocusedActiveBackground":"#c0295c",
+		"tab.unfocusedActiveBackground":"#f4b4c9",
 		"tab.hoverBackground":"#fac8d6",
 
 		"list.activeSelectionBackground":"#fac8d6",
@@ -103,6 +103,9 @@
 		//状态栏
 		"statusBar.background":"#ffd9e1",
 		"statusBar.foreground":"#c0295c",
+		"statusBar.debuggingBackground":"#c0295c",
+		"statusBar.debuggingForeground":"#fffbff",
+		"statusBarItem.hoverBackground":"#f4b4c9",
 
 		//设置
 		"settings.rowHoverBackground":"#eee9ed",
