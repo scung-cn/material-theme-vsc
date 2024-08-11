@@ -1,6 +1,6 @@
 # Material Theme for Visual Studio Code
 
-The most theme now for Visual Studio Code
+The most Material Design theme now for Visual Studio Code
 
 ![01 screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png?raw=true)
 
@@ -9,11 +9,11 @@ The most theme now for Visual Studio Code
 
 1、Open Extensions sidebar panel in Visual Studio Code. **View** → **Extensions**
 
-2、Search for **Material Theme**
+2、Search for **Material Design Theme**
 
 3、Click **Install**
 
-4、**File** > **Preferences** > **Color Theme** > **Material Theme**
+4、**File** > **Preferences** > **Color Theme** > **Material Design Theme**
 
 ## Feedback/Issues
 
