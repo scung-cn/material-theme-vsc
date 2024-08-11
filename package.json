@@ -10,7 +10,7 @@
     "url": "https://github.com/scung-cn/material-theme-vsc"
   },
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
@@ -21,6 +21,21 @@
         "label": "Material Design Theme",
         "uiTheme": "vs",
         "path": "./themes/Material Theme-color-theme.json"
+      },
+      {
+        "label": "Material Design Azure Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Material Theme Azure-color-theme.json"
+      },
+      {
+        "label": "Material Design Magenta Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Theme Magenta-color-theme.json"
+      },
+      {
+        "label": "Material Design Cyan Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Theme Cyan-color-theme.json"
       }
     ]
   }
