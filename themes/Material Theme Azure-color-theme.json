@@ -126,7 +126,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#b3badb"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#005cbb"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#005cbb"
 			}
 		},
 		{
