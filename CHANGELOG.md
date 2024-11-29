@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.10] - 2024-11-29
+
+### Changed
+
+- modify Function tokenColor.
