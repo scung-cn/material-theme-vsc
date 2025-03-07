@@ -4,7 +4,7 @@ All notable changes to the "material-theme-vsc" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 2024-11-29
+## [1.0.0] - 2025-03-07
 
 ### 变更
 
