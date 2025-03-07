@@ -180,7 +180,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#5babe9"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#dbc822"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#ec3c71"
 			}
 		},
 		{
@@ -315,7 +315,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#dbc822"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#dbc822"
 			}
 		},
 		{
@@ -358,7 +358,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#91B3E0"
 			}
 		},
 		{
