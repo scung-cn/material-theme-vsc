@@ -144,7 +144,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#005cbb"
 			}
 		},
 		{
@@ -306,14 +306,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#e998b3"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#c0295c"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#91B3E0"
+				"foreground": "#e998b3"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#c0295c"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#f70b5a"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#005cbb"
 			}
 		},
 		{
@@ -519,6 +519,17 @@
 			"scope": "meta.diff.header.to-file",
 			"settings": {
 				"foreground": "#434343"
+			}
+		},
+		{
+			"name": "Code Blocks",
+			"scope": [
+				"markup.fenced_code.block",
+				"markup.inline.raw.string"
+			],
+			"settings": {
+				"foreground": "#333333",
+				"fontStyle": "italic"
 			}
 		}
 	]
