@@ -2,13 +2,13 @@
 
 Visual Studio Code上最好的Material Design风格主题
 
-![rose screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png?raw=true)
+![rose screenshot](https://static.scung.cn/0dd44f0b-bc10-42c9-a4df-696dec78ee4c.png)
 
-![azure screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/02.png?raw=true)
+![azure screenshot](https://static.scung.cn/659e2f2a-215f-4a40-9f6a-470f4caec1fa.png)
 
-![cyan screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/03.png?raw=true)
+![cyan screenshot](https://static.scung.cn/d9d1c008-97f7-4fd4-af0d-7c9ea1bb2d54.png)
 
-![mageta screenshot](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/04.png?raw=true)
+![mageta screenshot](https://static.scung.cn/3dbe97c8-4e80-4aad-9b19-f330d21b80af.png)
 
 ## 怎么安装
 
@@ -26,9 +26,9 @@ Visual Studio Code上最好的Material Design风格主题
 
 同时也可以使用邮件联系 [scung@qq.com](mailto:scung@qq.com?subject=vscode主题反馈)
 
-如果你刚好也使用微信，还可以添加我的微信：wx_light_code
+如果你刚好也使用微信，还可以添加我的微信：**wx_light_code**
 
-![微信二维码](https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/05.png)
+![微信二维码](https://static.scung.cn/0c7936e3-01ad-4c4a-9250-5833459eb3c6.png)
 
 ## 开源协议
 
